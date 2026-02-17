@@ -20,3 +20,4 @@
 ### Other Resources
 - [MDN Box Model Guide](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Box_model)
 - [Additional Resources](link.md) – Video tutorial, frontend frameworks (Tailwind, UIkit, Bulma), icon libraries, and font libraries for web development
+- [Bootstrap Exercises](Exercises.md) – Practice exercises covering navbar, grid system, images, tables, and forms
